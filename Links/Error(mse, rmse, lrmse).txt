@@ -1,0 +1,4 @@
+1. https://www.vernier.com/til/1014/
+2. https://www.statisticshowto.datasciencecentral.com/rmse/
+3. https://www.youtube.com/watch?v=K490SP-_H0U
+4. https://medium.com/analytics-vidhya/root-mean-square-log-error-rmse-vs-rmlse-935c6cc1802a

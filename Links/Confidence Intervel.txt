@@ -1,0 +1,5 @@
+1. https://www.investopedia.com/terms/c/confidenceinterval.asp
+2. https://www.youtube.com/user/CreativeHeuristics/playlists
+	2.1 https://www.youtube.com/watch?v=tFWsuO9f74o
+	2.2 https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/confidence-interval/
+	2.3 https://www.mathsisfun.com/data/confidence-interval.html

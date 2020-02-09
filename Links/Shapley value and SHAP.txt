@@ -1,0 +1,13 @@
+1. https://slundberg.github.io/shap/notebooks/plots/decision_plot.html
+
+2. https://christophm.github.io/interpretable-ml-book/shap.html#examples-4
+
+3. https://github.com/slundberg/shap/blob/master/README.md
+
+4. https://www.youtube.com/watch?v=qcLZMYPdpH4&t=796s
+
+5. Shapley value python code:- https://github.com/susobhang70/shapley_value/blob/master/shapley.py
+
+6. Shapley value:- https://towardsdatascience.com/one-feature-attribution-method-to-supposedly-rule-them-all-shapley-values-f3e04534983d
+
+7. Youtube:- https://www.youtube.com/watch?v=qcLZMYPdpH4&list=PLeY-lFPWgBTif4PmLSN8eJsfOhFv_QUPl&index=3

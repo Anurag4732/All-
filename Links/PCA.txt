@@ -1,0 +1,6 @@
+1. Math:- 
+	1. https://www.youtube.com/watch?v=L-pQtGm3VS8&t=922s
+
+2. Implement:-
+	1. https://www.youtube.com/watch?v=uFbDWu0tDrE
+	2. https://towardsdatascience.com/an-approach-to-choosing-the-number-of-components-in-a-principal-component-analysis-pca-3b9f3d6e73fe

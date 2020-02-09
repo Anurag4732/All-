@@ -1,0 +1,17 @@
+https://help.github.com/en/github/managing-large-files/removing-files-from-a-repositorys-history
+https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone
+https://github.com/Anurag4732/test-ion
+https://www.youtube.com/watch?v=ruieT3Nkg2M&list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD&index=8
+https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx
+https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx
+https://git-scm.com/book/en/v1/Getting-Started-First-Time-Git-Setup
+
+for push existing file:- https://www.youtube.com/watch?v=ibNqauPoicg&t=80s
+	1. open git bash at there
+	2. git init
+	3. git add .  => git config core.autocrlf true
+	4. git commit  -m "about code"
+	5. git push -f github master
+
+diff b/w https and ssh:- HTTPS Is a port that is open in all firewalls. 
+			 SSH is not always open as a port for communication to external networks

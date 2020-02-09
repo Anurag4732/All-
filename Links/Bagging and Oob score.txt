@@ -1,0 +1,16 @@
+1. Bagging:- 
+	youtube.com/watch?v=enD2BvWSukI
+
+2. OOB score:- 
+	https://datascience.stackexchange.com/questions/13151/randomforestclassifier-oob-scoring-method
+        https://stats.stackexchange.com/questions/95818/what-is-a-good-oob-score-for-random-forests-with-sklearn-three-class-classifica
+	https://scikit-learn.org/stable/auto_examples/ensemble/plot_ensemble_oob.html
+	https://towardsdatascience.com/what-is-out-of-bag-oob-score-in-random-forest-a7fa23d710
+	https://discuss.analyticsvidhya.com/t/validation-in-random-forest-and-interpretation-of-oob-and-error-estimate/10317
+
+  Bhavesh Bhatt :- 
+	https://www.youtube.com/watch?v=z-w_W_VJbIY
+	https://www.youtube.com/watch?v=1p2a6XIG-MU
+
+3. cross- validation and OOB score :- 
+	https://www.kaggle.com/c/titanic/discussion/3554

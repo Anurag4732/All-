@@ -1,0 +1,12 @@
+1. Grid search cv vs Random search cv
+	1. https://blog.usejournal.com/a-comparison-of-grid-search-and-randomized-search-using-scikit-learn-29823179bc85
+
+
+2. Grid Search:-
+	1. https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+	2. For scoring functiom :- https://scikit-learn.org/stable/modules/model_evaluation.html#scoring-parameter 
+	                           https://stackoverflow.com/questions/57048694/how-to-optimize-for-f1-score-and-prediction-speed-with-randomsearchcv
+	3. KAggle exp :- https://www.kaggle.com/cesartrevisan/scikit-learn-and-gridsearchcv
+
+3. https://en.wikipedia.org/wiki/Hyperparameter_optimization
+4. GridSearch and random search cv :- https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74

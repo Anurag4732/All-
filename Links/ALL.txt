@@ -1,0 +1,36 @@
+## Speraman and pearson correlation :-
+1. https://www.youtube.com/watch?v=sFsoXbJ85lw
+2. https://www.researchgate.net/post/Which_correlation_coefficient_is_better_to_use_Spearman_or_Pearson
+3. https://www.youtube.com/watch?v=DE58QuNKA-c =>> Calculate the spearman correlation cofficients
+
+## Decision Tree Regressor:-
+1. https://www.saedsayad.com/decision_tree_reg.htm
+
+## Gradient Boosting:-
+1. https://www.youtube.com/watch?v=3CC4N4z3GJc&list=PLvSdMJxMoHLu1klVabPbgHzsJu0vUuFOU
+2. https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/ (Hyper perameter tuning)
+
+## Xgboost:-
+1. https://shirinsplayground.netlify.com/2018/11/ml_basics_gbm/
+2. https://www.youtube.com/watch?v=ej3ijm6eDO8
+
+## Preprocessing:-
+1. https://towardsdatascience.com/preprocessing-with-sklearn-a-complete-and-comprehensive-guide-670cb98fcfb9
+
+## Markov's model:-
+1. https://www.youtube.com/watch?v=EqUfuT3CC8s
+
+
+## PCA steps:-
+1. https://builtin.com/data-science/step-step-explanation-principal-component-analysis
+
+## SVM:-
+1. https://www.svm-tutorial.com/2015/06/svm-understanding-math-part-3/
+2. https://www.svm-tutorial.com/2017/02/svms-overview-support-vector-machines/
+3. https://en.wikipedia.org/wiki/Sequential_minimal_optimization
+
+## K-means:-
+1. https://www.saedsayad.com/clustering_kmeans.html
+
+## Python code:-
+1. https://www.geeksforgeeks.org/internal-working-of-python/

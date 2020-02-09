@@ -1,0 +1,9 @@
+1. Medium:-
+	1. https://towardsdatascience.com/how-to-tune-a-decision-tree-f03721801680
+
+
+2. https://stackoverflow.com/questions/46480457/difference-between-min-samples-split-and-min-samples-leaf-in-sklearn-decisiontre
+3. https://www.google.com/search?biw=1366&bih=657&tbm=isch&sxsrf=ACYBGNSH6ggtUvML_aCIvnEjUsFo-j-_9A%3A1580648341888&sa=1&ei=lcc2Xof0NcaT4-EPkc-wgAQ&q=decision+tree+algorithm&oq=decision+tree&gs_l=img.1.3.35i39l2j0l3j0i67j0j0i67j0j0i67.0.0..10204...0.0..0.300.582.2-1j1......0......gws-wiz-img.MCK42T8g1Y8#imgrc=-8kOhmQsZU71LM:
+4. An internal node (also known as an inner node, inode for short, or branch node) is any node of a tree that has child nodes. Similarly, 
+   an external node (also known as an outer node, leaf node, or terminal node) is any node that does not have child nodes.
+ 

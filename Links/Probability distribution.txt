@@ -1,0 +1,24 @@
+1. Discrete Probability Distributions:- jbstatisticshttps:
+	1. https://www.youtube.com/watch?v=L2KMttDm3aY&list=PLvxOuBpazmsNIHP5cz37oOPZx0JKyNszN&index=5
+
+2. Penn state:-
+	1. https://online.stat.psu.edu/stat414/node/68/
+
+Type:-
+1. Benomiall distribution:- 
+	1. https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/binomial-theorem/binomial-distribution-formula/
+
+2. Hypergeometric distribution:-
+	1. https://www.youtube.com/watch?v=L2KMttDm3aY&list=PLvxOuBpazmsNIHP5cz37oOPZx0JKyNszN&index=5
+	2. https://www.statisticshowto.datasciencecentral.com/hypergeometric-distribution-examples/
+
+-------------------------------------------------------------------------------------------------------------------
+
+1. Continues probability distribution:-
+	1. https://www.youtube.com/watch?v=iYiOVISWXS4&list=PLvxOuBpazmsPDZGwqhhjE3KkLWnTD34R0&index=5
+
+
+Type:-
+1. Normal Distribution:-
+	1. https://www.youtube.com/watch?v=iYiOVISWXS4&list=PLvxOuBpazmsPDZGwqhhjE3KkLWnTD34R0&index=5
+	2. Z-table:- http://www.z-table.com/

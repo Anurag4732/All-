@@ -1,0 +1,25 @@
+1. sbse phle matrix decompostion or factrozition kya hota h kitne type ka
+   hota h:-
+	https://en.wikipedia.org/wiki/Matrix_decomposition
+
+2. konsa method kiss trah ki rating ke liye or kab use krte h:-
+	https://en.wikipedia.org/wiki/Matrix_factorization_(recommender_systems)
+
+3. In recomm. system first step is fill unknown rating or minimize 
+   sparcity:-
+	http://nicolas-hug.com/blog/matrix_facto_1
+
+4. Eigenvalue and eigen vector:-
+	1. https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-2-linear-algebra/
+	2. https://www.youtube.com/watch?v=mBcLRGuAFUk
+	3. PCA and SVD:- https://www.youtube.com/watch?v=L-pQtGm3VS8&t=922s
+	4. https://www.youtube.com/watch?v=cHOsd2PhkqE&vl=en
+	5. https://www.youtube.com/watch?v=cOUTpqlX-Xs&t=79s
+	6. https://www.youtube.com/watch?v=4wTHFmZPhT0
+
+
+## Linear transformation:-
+1. https://brilliant.org/wiki/linear-transformations/
+
+## Diagonization of a matrix:-
+1. https://www.youtube.com/watch?v=PH4oKqdQ76o

@@ -1,0 +1,2 @@
+1. https://datascience.stackexchange.com/questions/37878/difference-between-isna-and-isnull-in-pandas
+2. https://codeburst.io/understanding-null-undefined-and-nan-b603cb74b44c
