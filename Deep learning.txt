@@ -1,0 +1,55 @@
+1. Deep learning:-
+	1. https://towardsdatascience.com/multilingual-transformers-ae917b36034d
+
+2. BackPrapogestion:-
+	1. https://www.youtube.com/watch?v=khUVIZ3MON8
+
+3. Build NN:-
+	1. https://keras.io/getting-started/sequential-model-guide/ (Getting started with the Keras Sequential model)
+	2. https://towardsdatascience.com/building-our-first-neural-network-in-keras-bdc8abbc17f5
+	3. https://keras.io/models/sequential/  (The Sequential model)
+
+4. Activation function:-
+	1. https://keras.io/activations/
+	2. https://towardsdatascience.com/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8
+
+5. NN for Regression:-
+	1. https://datascienceplus.com/keras-regression-based-neural-networks/
+
+6. Drop Out:-
+	1. https://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/
+
+7. Gradient Checking :-
+	1. http://ufldl.stanford.edu/tutorial/supervised/DebuggingGradientChecking/
+
+
+8. Loss function in DL:-
+	1. https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/
+	2. https://keras.io/api/losses/
+	3. https://keras.io/losses/
+
+9. Metrics:-
+	1. https://machinelearningmastery.com/custom-metrics-deep-learning-keras-python/
+	2. https://medium.com/@aakashgoel12/how-to-add-user-defined-function-get-f1-score-in-keras-metrics-3013f979ce0d
+	3. https://stackoverflow.com/questions/43547402/how-to-calculate-f1-macro-in-keras
+
+10. Optimizers:-
+	1. SGD with momentum:-
+		1. https://keras.io/api/optimizers/sgd/
+		2. https://www.kaggle.com/residentmario/keras-optimizers
+		3. https://machinelearningmastery.com/using-learning-rate-schedules-deep-learning-models-python-keras/
+		4. https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/
+	
+	2. For all :- https://www.kaggle.com/residentmario/keras-optimizers
+		      https://keras.io/api/optimizers/
+
+11. Parameter tuning:-
+	3.1 Overall:-
+		1. https://towardsdatascience.com/hyper-parameters-in-action-a524bf5bf1c
+	
+	3.2 Weight:-
+		1. https://towardsdatascience.com/hyper-parameters-in-action-part-ii-weight-initializers-35aee1a28404
+		2. https://www.youtube.com/watch?v=tMjdQLylyGI&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=11
+		3. https://machinelearningmastery.com/using-learning-rate-schedules-deep-learning-models-python-keras/
+ 
+

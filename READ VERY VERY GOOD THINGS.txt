@@ -1,0 +1,4 @@
+1. https://towardsdatascience.com/@actsusanli (Susan Li Medium Blog)
+2. https://towardsdatascience.com/clothes-reviews-analysis-with-nlp-part-1-d81bdfa14d97
+3. https://github.com/AdityaSoni19031997/Machine-Learning/blob/master/AV/AV_Enigma_NLP_functional_api.ipynb
+4. https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74

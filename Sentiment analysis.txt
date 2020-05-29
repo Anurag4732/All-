@@ -1,0 +1,16 @@
+1. https://towardsdatascience.com/clothes-reviews-analysis-with-nlp-part-1-d81bdfa14d97
+	(Clothes reviews analysis with NLP — Part 1)
+2. https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f
+	( Parul pandey's blog)
+
+
+
+#####################################################
+
+To-Do:-
+
+1. https://www.google.com/search?q=vader+nltk&oq=vader+nltk&aqs=chrome..69i57.4120j0j1&sourceid=chrome&ie=UTF-8
+2. https://www.google.com/search?q=multiclass+sentiment+analysis&oq=multiclass+sentiment+analysis&aqs=chrome..69i57.15679j0j1&sourceid=chrome&ie=UTF-8
+3. https://towardsdatascience.com/clothes-reviews-analysis-with-nlp-part-1-d81bdfa14d97
+	(https://towardsdatascience.com/@valentinaalto)
+

@@ -1,0 +1,8 @@
+1. Librosa:-
+	1. https://medium.com/@patrickbfuller/librosa-a-python-audio-libary-60014eeaccfb
+	2. https://librosa.github.io/librosa/tutorial.html
+
+2. Speech to text:-
+	1. https://medium.com/@fortes.arthur/hands-on-speech-recognition-engine-with-keras-and-python-c60488ac53cd
+	2. https://medium.com/manash-en-blog/building-a-dead-simple-word-recognition-engine-using-convnet-in-keras-25e72c19c12b
+	3. https://www.kaggle.com/kcs93023/keras-sequential-conv1d-model-classification

@@ -1,0 +1,171 @@
+## Good Overall Blogs:-
+	1. https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72
+	2. https://elitedatascience.com/python-nlp-libraries(diff-diff types of libray for NLP)
+
+
+###############################################################################
+1. POS:-
+	1. https://www.geeksforgeeks.org/nlp-part-of-speech-default-tagging/
+	2. https://medium.com/greyatom/learning-pos-tagging-chunking-in-nlp-85f7f811a8cb
+	3. https://pythonprogramming.net/named-entity-recognition-nltk-tutorial/
+	4. https://www.guru99.com/pos-tagging-chunking-nltk.html
+	5. https://www.mathsisfun.com/numbers/cardinal-ordinal-nominal.html(numbers)
+
+2. NER:-
+	1. https://www.nltk.org/book/ch07.html
+	2. https://www.kdnuggets.com/2018/08/named-entity-recognition-practitioners-guide-nlp-4.html
+        3. Tagging Method:-
+		1. https://medium.com/analytics-vidhya/bio-tagged-text-to-original-text-99b05da6664
+		2. https://www.geeksforgeeks.org/nlp-iob-tags/
+	4. Tech for extracting information:-
+		1. https://blog.aureusanalytics.com/blog/5-natural-language-processing-techniques-for-extracting-information
+
+2. Stemming and Lemitigetion:-
+	1. https://www.guru99.com/stemming-lemmatization-python-nltk.html
+	2. https://www.datacamp.com/community/tutorials/stemming-lemmatization-python
+	3. https://www.oreilly.com/library/view/python-natural-language/9781787121423/0d40842f-bf50-41b1-a28b-3ed61526f84e.xhtml
+	4. https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html
+3. Sentiment ananlysis:-
+	1. https://monkeylearn.com/sentiment-analysis/
+
+4. Emoji into text:-
+	1. https://medium.com/towards-artificial-intelligence/emoticon-and-emoji-in-text-mining-7392c49f596a
+
+5. Remove special symbol
+
+## Edit kr skte h jis symobol ko chahiye
+re.sub(r"[-()\"#/@;:*<>{}`+=~|.!?,]", "", df['voice'][0]) 
+
+# Kissi special regex ka word ho to uske liye
+# import re
+# abc = "askhnl#$%askdjalsdk"
+# ddd = abc.replace("#$%","")
+# print (ddd)
+
+6. Spealing checker:-
+	1. https://stackoverflow.com/questions/13928155/spell-checker-for-python
+
+7. Tagging and chucking:-
+	1.https://medium.com/greyatom/learning-pos-tagging-chunking-in-nlp-85f7f811a8cb
+	2. https://www.nltk.org/book/ch07.html
+	3. https://www.geeksforgeeks.org/nlp-extracting-named-entities/
+
+8. Text similiarity:-
+	1. https://medium.com/@adriensieg/text-similarities-da019229c894
+
+9. Word2Vec:- https://www.kaggle.com/pierremegret/gensim-word2vec-tutorial
+	1. https://www.youtube.com/watch?v=UqRCEmrv1gQ
+	2. https://towardsdatascience.com/a-beginners-guide-to-word-embedding-with-gensim-word2vec-model-5970fa56cc92
+	3. https://www.geeksforgeeks.org/python-word-embedding-using-word2vec/
+	4. https://www.youtube.com/watch?v=Z1VsHYcNXDI
+	5. https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
+
+10. Topic Modeling:-
+	1. https://www.kdnuggets.com/2016/07/text-mining-101-topic-modeling.html
+	2. https://www.youtube.com/watch?v=fCmIceNqVog 
+	3. https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05
+	4. https://www.youtube.com/watch?v=p1I9Sa1lRvk
+	5. https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
+
+11. Spell Chacker:-
+	1. https://www.youtube.com/watch?v=Fx-TheSX3Rs&list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv&index=22	
+	2. https://medium.com/analytics-vidhya/real-word-spell-correction-c64a3a02c64d
+
+
+12. Window size:-
+	1. https://stackoverflow.com/questions/30571599/the-%C2%B1-2-window-in-word-similarity-of-nlp
+	2. https://stackoverflow.com/questions/22272370/word2vec-effect-of-window-size-used/30447723
+
+13. Languange Model:-
+	1. https://www.youtube.com/watch?v=GiyMGBuu45w
+	2. https://www.youtube.com/watch?v=Saq1QagC8KY&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm&index=12
+	Practice:- 
+		1. https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-language-model-nlp-python-code/
+
+14. BLEU:-
+	1. https://en.wikipedia.org/wiki/BLEU
+	2. https://www.youtube.com/watch?v=DejHQYAGb7Q
+	3. https://discuss.mltokyo.ai/t/nlp-evaluation-metrics/178/2
+	4. https://machinelearningmastery.com/calculate-bleu-score-for-text-python/
+
+
+
+15. Perplexity(measure accuracy of languange model):-
+	1. https://www.google.com/search?sxsrf=ALeKk03evVLSoMhlSqdgulGHg-unNWNr_A%3A1587558955063&ei=KzqgXo-yA4Daz7sPu660kAs&q=perplexity+nlp&oq=perplexity+meaning&gs_lcp=CgZwc3ktYWIQAxgAMgQIABBHMgQIABBHMgQIABBHMgQIABBHMgQIABBHMgQIABBHMgQIABBHMgQIABBHULJ7WPuNAWC2kAFoAHACeACAAQCIAQCSAQCYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab
+	2. https://en.wikipedia.org/wiki/Perplexity
+	3. https://www.youtube.com/watch?v=oaYsCVtHveQ
+	4. https://machinelearningmastery.com/calculate-bleu-score-for-text-python/
+
+##Perplexity:-
+	1. https://towardsdatascience.com/evaluation-of-language-models-through-perplexity-and-shannon-visualization-method-9148fbe10bd0
+
+
+16. Laplase Smoothing:-
+	1. https://www.youtube.com/watch?v=ZbHFLgBWgdQ&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm&index=16
+	2. https://www.youtube.com/watch?v=jSaU_iDB1Ds
+	3. https://towardsdatascience.com/introduction-to-na%C3%AFve-bayes-classifier-fa59e3e24aaf
+
+17. Smoothing-Interpolation-Backoff:-
+	1. https://www.isip.piconepress.com/courses/msstate/ece_8463/lectures/current/lecture_33/lecture_33.pdf
+	2. https://www.coursera.org/lecture/language-processing/smoothing-what-if-we-see-new-n-grams-EHWHb
+	3. http://www.cs.cornell.edu/courses/cs4740/2014sp/lectures/smoothing+backoff.pdf
+	4. https://www.youtube.com/watch?v=naNezonMA7k&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm&index=17
+
+18. Naive Bayes' Theorm:-
+	1. https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+	2. https://www.youtube.com/watch?v=jS1CKhALUBQ(naive-bayes Krish Naik)
+	3. https://www.youtube.com/watch?v=71oNiqPoKD8 (Bayes by  krish naik)
+	4. https://www.youtube.com/watch?v=XQoLVl31ZfQ&t=49s(BAYEs Theorm)
+	5. https://towardsdatascience.com/all-about-naive-bayes-8e13cef044cf
+	6. https://medium.com/analytics-vidhya/naive-bayes-classifier-for-text-classification-556fabaf252b
+		(mathmatical implementation of Naive Bayes' on Text)
+
+19. How, When and Why Should You Normalize / Standardize / Rescale Your Data?:-
+	https://www.youtube.com/watch?v=FDCfw-YqWTE&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&index=9
+	1. https://medium.com/@swethalakshmanan14/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff
+	2. https://medium.com/@urvashilluniya/why-data-normalization-is-necessary-for-machine-learning-models-681b65a05029
+	3. https://machinelearningmastery.com/how-to-improve-neural-network-stability-and-modeling-performance-with-data-scaling/
+	4. https://jamesmccaffrey.wordpress.com/2019/01/04/how-to-normalize-training-and-test-data-for-machine-learning/
+
+20. Generative vs Discriminative Models:-
+	1. https://developers.google.com/machine-learning/gan/generative
+	2. https://www.youtube.com/watch?v=YQClUDd9ff4&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm&index=38
+
+21. Lexicon model:-
+	1. https://methods.sagepub.com/dataset/howtoguide/dictionary-based-sentiment-analysis-in-econnews-2016-python
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
